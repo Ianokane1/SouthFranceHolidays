@@ -54,7 +54,10 @@ h1 {
     height: 600px;
     width: 100%;
     overflow: hidden;
+
+    position: relative;
 }
+
 
 #cite-image {
     height: 600px;
@@ -79,4 +82,17 @@ h1 {
     to{
         transform: scale(1.1);
     }
+}
+
+/* Why Stay With Us */
+
+#top-about{
+text-align: center;
+
+}
+
+#bottom-about {
+    text-align: center;
+    
+
 }
