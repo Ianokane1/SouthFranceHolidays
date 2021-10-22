@@ -9,6 +9,7 @@
 body {
     font-family: italianno;
     font-weight: 400;
+    background-color: #3666BF;
 }
 
 /* header styles */
@@ -95,4 +96,24 @@ text-align: center;
     text-align: center;
     
 
+}
+
+footer{
+    height: 150px;
+}
+
+.social-networks{
+    text-align: center;
+
+}
+
+.social-networks li{
+    display: inline;
+}
+
+.social-networks i{
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #ffbe0b;
 }
