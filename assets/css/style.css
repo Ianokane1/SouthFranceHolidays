@@ -103,13 +103,26 @@ font-size: 23px;
 #bottom-about {
     text-align: center;
     color: lavender;
-    font-size: 23px;}
+    font-size: 23px;
+}
 
     h2 {
         color: #ffbe0b;
     }
 
-}
+    .wrapper {
+        text-align: center;
+    }
+
+    .bookbutton {
+    font-size: 20px;
+    background-color: #a0c800;
+    color: white;
+    border-radius: 5px;
+    
+    }
+
+
 
 footer{
     height: 150px;
