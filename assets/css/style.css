@@ -11,6 +11,38 @@ body {
     font-weight: 400;
 }
 
+/* header styles */
+
 h1 {
     font-size: 50px;
+    text-align: center;
+    color: #ffbe0b;
+    text-decoration: none;
+}
+
+/* navigation links */
+
+#menu {
+    text-align: center;
+    font-size: 25px;
+    letter-spacing: 4px;
+    
+    }
+
+#menu li {
+    list-style-type: none;
+    margin-right: 30px;
+    float:right;
+}    
+
+#menu a {
+    text-decoration: none;
+    color: #ffbe0b;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+.active {
+    border-bottom: 1px solid #3a3a3a;
 }
