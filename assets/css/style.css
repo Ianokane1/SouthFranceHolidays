@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+
+* {
+    margin: 0%;
+    padding: 0%;
+    border: none;
+}
+
 body {
-    font-family: arial;
+    font-family: italianno;
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 50px;
 }
