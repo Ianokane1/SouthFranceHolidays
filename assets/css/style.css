@@ -95,12 +95,19 @@ header a h1 {
 
 #top-about{
 text-align: center;
+color: lavender;
+font-size: 23px;
 
 }
 
 #bottom-about {
     text-align: center;
-    
+    color: lavender;
+    font-size: 23px;}
+
+    h2 {
+        color: #ffbe0b;
+    }
 
 }
 
