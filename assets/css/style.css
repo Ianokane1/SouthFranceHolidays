@@ -38,6 +38,7 @@ h1 {
 #menu a {
     text-decoration: none;
     color: #ffbe0b;
+    font-weight: 700;
 }
 
 #menu a:hover {
@@ -45,4 +46,37 @@ h1 {
 }
 .active {
     border-bottom: 1px solid #3a3a3a;
+}
+
+/*cite image */
+
+#cite-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#cite-image {
+    height: 600px;
+    width: 100%;
+    background: url(../images/1200px-Carcassonne_Cite.jpg) no-repeat;
+
+    /* animates zoom on loading page */
+
+    animation-name: cite-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+
+
+
+/* creates zoom for cite image */
+@keyframes cite-zoom {
+    from {
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
 }
