@@ -48,10 +48,10 @@ header a h1 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #ffbe0b;
 }
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #ffbe0b;
 }
 
 /*cite image */
