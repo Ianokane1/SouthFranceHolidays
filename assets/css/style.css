@@ -116,15 +116,15 @@ font-size: 23px;
 
     .bookbutton {
     font-size: 20px;
-    background-color: #a0c800;
+    background-color: #ffbe0b;
     color: white;
     border-radius: 5px;
-    
-    }
-
-    footer{
-    height: 150px;
+    } 
+    .bookbutton:hover {
+    background-color: #fafafa;
+    color: #ffbe0b; 
 }
+
 
 .social-networks{
     text-align: center;
@@ -142,15 +142,60 @@ font-size: 23px;
     color: #ffbe0b;
 }
 
-/* form page */
+/* contact us page */
 
-.contact-form {
+.form-section {
     clear: left;
     background: url(../images/balade-à-vélo-le-long-du-canal-du-midi-©céline-deschamps-adt-de-l-aude-1455x970.jpg);
     background-size: cover;
     background-position: center;
-    height: 900px;
+    height: 700px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    
+    
 }
 
+.signup-form {
+    margin: 150px 10% 0 0;
+    color: #fff;
+    background-color: rgba(60, 60, 60, 0.6);
+    max-width: 400px;
+    position: absolute;
+    left: 10%;
+    padding: 30px;
+}
+
+.text-input {
+    background: transparent;
+    color: #fafafa;
+    width: 200px;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 2px solid #fafafa;
+    border-radius: 20px; }
+
+    .text-input:hover {
+        border-color: #ffbe0b; 
+    }
+
+    .send-button {
+    margin-top: 10px;
+    border-radius: 20px;
+    padding: 5px 32px 5px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #ffbe0b;
+    color: #fafafa;
+    display: block;
+    }
+
+    .send-button:hover {
+        background-color: #fafafa;
+        color: #ffbe0b;
+
+    
+    
 
 
