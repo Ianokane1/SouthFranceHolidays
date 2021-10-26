@@ -142,6 +142,15 @@ font-size: 23px;
     color: #ffbe0b;
 }
 
+/* form page */
+
+.contact-form {
+    clear: left;
+    background: url(../images/balade-à-vélo-le-long-du-canal-du-midi-©céline-deschamps-adt-de-l-aude-1455x970.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
 
 
 
