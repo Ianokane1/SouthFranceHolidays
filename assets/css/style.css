@@ -26,12 +26,14 @@ header a h1 {
     float: left;
 }
 
+
 /* navigation links */
 
 #menu {
     text-align: center;
     font-size: 25px;
     letter-spacing: 4px;
+    line-height: 50px;
     
     }
 
@@ -60,7 +62,6 @@ header a h1 {
     height: 600px;
     width: 100%;
     overflow: hidden;
-
     position: relative;
 }
 
@@ -198,7 +199,7 @@ font-size: 23px;
         * {box-sizing:border-box
         }
 
-        
+
 
 /* Slideshow container */
 .slideshow-container {
