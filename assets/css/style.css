@@ -19,13 +19,11 @@ h1 {
     font-size: 50px;
     text-align: center;
     color: #ffbe0b;
-    
-}
+    }
 
 header a h1 {
     float: left;
 }
-
 
 /* navigation links */
 
@@ -65,7 +63,6 @@ header a h1 {
     position: relative;
 }
 
-
 #cite-image {
     height: 600px;
     width: auto;
@@ -77,9 +74,6 @@ header a h1 {
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
-
-
-
 
 /* creates zoom for cite image */
 @keyframes cite-zoom {
