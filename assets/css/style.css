@@ -93,34 +93,47 @@ header a h1 {
 
 /* Why Stay With Us */
 
+/* I modified this use flex in order to display a row */
+#about-wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
 
-#top-about{
+/* I combined the styling for these and set their width to 40% of the parent container's width */
+#top-about,
+#bottom-about {
 text-align: center;
 color: lavender;
-font-size: 23px;
-
+font-size: 40px;
+flex-basis: 40%;
 }
 
-#bottom-about {
+/* #bottom-about {
     text-align: center;
     color: lavender;
-    font-size: 23px;
-}
+    font-size: 40px;
+    margin-right: 200px
+    float: right;
+} */
 
     h2 {
         color: #ffbe0b;
     }
 
-    .wrapper {
-        text-align: center;
-    }
 
     .bookbutton {
     font-size: 20px;
     background-color: #ffbe0b;
     color: white;
     border-radius: 5px;
+    padding: 5px 32px 5px 32px;
+     
     } 
+    
     .bookbutton:hover {
     background-color: #fafafa;
     color: #ffbe0b; 
@@ -294,7 +307,19 @@ font-size: 23px;
   to {opacity: 2}
 }
 
-    
-    
+   /*media queries*/
 
-
+   /* For small screens sizes from 800px wide and down */
+@media screen and (max-width: 800px) {
+    /* Both changes below affect the about section on mobile. The first sets the display to column so they stack,
+       while the second sets their width to 100% to disiplay full screen */
+    #about-wrapper {
+        flex-direction: column;
+    }
+    
+    #top-about,
+    #bottom-about {
+    font-size: 40px;
+    flex-basis: 100%;
+    }
+}
