@@ -106,15 +106,8 @@ font-size: 40px;
 flex-basis: 40%;
 }
 
-/* #bottom-about {
-    text-align: center;
-    color: lavender;
-    font-size: 40px;
-    margin-right: 200px
-    float: right;
-} */
 
-    h2 {
+h2 {
         color: #ffbe0b;
     }
 
@@ -133,6 +126,11 @@ flex-basis: 40%;
     color: #ffbe0b; 
 }
 
+#book-now {
+    display: flex;
+    justify-content: center;
+     
+}
 
 .social-networks{
     text-align: center;
