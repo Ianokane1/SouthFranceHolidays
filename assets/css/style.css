@@ -10,9 +10,17 @@ body {
     font-family: italianno;
     font-weight: 400;
     background-color: white;
+    display: flex;
+    flex-direction: column;
 }
 
 /* header styles */
+
+header {
+    display: flex;
+    place-content: space-between;
+    background-color: #6F9CEB;
+}
 
 h1 {
     font-size: 50px;
@@ -26,10 +34,6 @@ header a h1 {
 
 /* navigation links */
 
-#navbar {
-    height: 60px;
-    background-color: #6F9CEB;
-}
 
 #menu {
     text-align: center;
