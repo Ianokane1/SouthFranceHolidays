@@ -86,6 +86,10 @@ header a h1 {
 
 /* Why Stay With Us */
 
+.whystay {
+    font-size: 100px;
+}
+
 /* I modified this use flex in order to display a row */
 #about-wrapper {
     width: 100%;
@@ -100,9 +104,12 @@ header a h1 {
 #top-about,
 #bottom-about {
 text-align: center;
-color: lavender;
-font-size: 40px;
+color: white;
+font-size: 50px;
 flex-basis: 40%;
+background-color: #6F9CEB;
+box-shadow: 5px 5px #888888;
+
 }
 
 
@@ -152,7 +159,7 @@ h2 {
 /* contact us page */
 
 .form-section {
-    clear: left;
+    clear: right;
     background: url(../images/balade-à-vélo-le-long-du-canal-du-midi-©céline-deschamps-adt-de-l-aude-1455x970.jpg);
     background-size: cover;
     background-position: center;
@@ -170,7 +177,7 @@ h2 {
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
     position: absolute;
-    left: 10%;
+    right: 10%;
     padding: 30px;
 }
 
@@ -195,7 +202,7 @@ h2 {
     font-size: 100%;
     background-color: #ffbe0b;
     color: #fafafa;
-    display: block;
+
     }
 
     .send-button:hover {
