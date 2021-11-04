@@ -9,11 +9,10 @@
 body {
     font-family: italianno;
     font-weight: 400;
-    background-color: #507CCE;
+    background-color: white;
 }
 
 /* header styles */
-
 
 h1 {
     font-size: 50px;
@@ -29,9 +28,9 @@ header a h1 {
 
 #menu {
     text-align: center;
-    font-size: 25px;
+    font-size: 30px;
     letter-spacing: 4px;
-    line-height: 50px;
+    line-height: 60px;
     
     }
 
@@ -113,16 +112,17 @@ h2 {
 
 
     .bookbutton {
-    font-size: 20px;
+    font-size: 40px;
     background-color: #ffbe0b;
     color: white;
     border-radius: 5px;
     padding: 5px 32px 5px 32px;
+    box-shadow: 5px 5px #888888;
      
     } 
     
     .bookbutton:hover {
-    background-color: #fafafa;
+    background-color: #888888;
     color: #ffbe0b; 
 }
 
@@ -142,11 +142,12 @@ h2 {
 }
 
 .social-networks i{
-    font-size: 160%;
+    font-size: 300%;
     margin: 1%;
     padding: 5%;
     color: #ffbe0b;
 }
+
 
 /* contact us page */
 
