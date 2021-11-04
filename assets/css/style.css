@@ -26,6 +26,11 @@ header a h1 {
 
 /* navigation links */
 
+#navbar {
+    height: 60px;
+    background-color: #6F9CEB;
+}
+
 #menu {
     text-align: center;
     font-size: 30px;
@@ -159,7 +164,7 @@ h2 {
 /* contact us page */
 
 .form-section {
-    clear: right;
+    clear: left;
     background: url(../images/balade-à-vélo-le-long-du-canal-du-midi-©céline-deschamps-adt-de-l-aude-1455x970.jpg);
     background-size: cover;
     background-position: center;
@@ -188,7 +193,10 @@ h2 {
     height: 25px;
     margin: 5px 0 20px 0;
     border: 0.5px solid #fafafa;
-    border-radius: 20px; }
+    border-radius: 20px; 
+    
+
+}
 
     .text-input:hover {
         border-color: #ffbe0b; 
