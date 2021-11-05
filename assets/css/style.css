@@ -74,7 +74,7 @@ header a h1 {
 #cite-image {
     height: 600px;
     width: auto;
-    background: url(../images/la-cite-medievale-de-carcassonne_g-deschamps-crt-occitanie.jpg) no-repeat center;
+    background: url(../images/citeview.jpg) no-repeat center;
 
     /* animates zoom on loading page */
 
@@ -169,7 +169,7 @@ h2 {
 
 .form-section {
     clear: left;
-    background: url(../images/balade-à-vélo-le-long-du-canal-du-midi-©céline-deschamps-adt-de-l-aude-1455x970.jpg);
+    background: url(../images/cyclists.jpg);
     background-size: cover;
     background-position: center;
     height: 700px;
