@@ -369,9 +369,11 @@ h2 {
         .signup-form {
             margin: 100px auto;
             position: initial;
-            
-            
             }
+        
+        .text-input {
+            width: 250px;
+        } 
 
 
 	
