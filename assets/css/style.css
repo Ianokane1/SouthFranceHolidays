@@ -140,7 +140,7 @@ h2 {
 }
 
 .bookbutton:hover {
-	background-color: #888888;
+	background-color: #6F9CEB;
 	color: #ffbe0b;
 }
 
@@ -158,12 +158,16 @@ h2 {
 }
 
 .social-networks i {
-	font-size: 300%;
+	font-size: 250%;
 	margin: 1%;
 	padding: 5%;
 	color: #ffbe0b;
 }
 
+.social-networks i:hover {
+    color: #6F9CEB;
+
+}
 
 /* contact us page */
 
@@ -179,7 +183,7 @@ h2 {
 }
 
 .signup-form {
-	margin: 100px 10% 0 0;
+	margin: 100px 0 0 0;
 	color: #fff;
 	background-color: rgba(60, 60, 60, 0.6);
 	max-width: 400px;
@@ -360,5 +364,15 @@ h2 {
 	#bottom-about {
 		font-size: 40px;
 		flex-basis: 100%;
-	}
+    }
+
+        .signup-form {
+            margin: 100px auto;
+            position: initial;
+            
+            
+            }
+
+
+	
 }
