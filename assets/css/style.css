@@ -372,9 +372,14 @@ h2 {
             }
         
         .text-input {
-            width: 250px;
+            width: 175px;
         } 
 
+	@media screen and (max-width: 360px) {
+		.text-input {
+			width: 150px;
+			} 
+	}
 
 	
 }
