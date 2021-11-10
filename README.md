@@ -8,3 +8,5 @@ South France Holidays is a property made up of the main house with three villas 
 The overall aim of my project is the make an appealing website to showcase this stunning property.
 
 A live website can be found [here](https://github.com/Ianokane1/SouthFranceHolidays)
+
+![Screenshot](screenshot.png)
