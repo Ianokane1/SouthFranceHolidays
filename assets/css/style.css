@@ -30,6 +30,7 @@ h1 {
 
 header a h1 {
 	float: left;
+	line-height: 60px;
 }
 
 
@@ -109,7 +110,6 @@ header a h1 {
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
-	align-items: center;
 	flex-wrap: wrap;
 }
 
@@ -137,6 +137,7 @@ h2 {
 	border-radius: 5px;
 	padding: 5px 32px 5px 32px;
 	box-shadow: 5px 5px #888888;
+	font-family: Cinzel Decorative;
 }
 
 .bookbutton:hover {
