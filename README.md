@@ -17,9 +17,9 @@ A live website can be found [here](https://github.com/Ianokane1/SouthFranceHolid
   - [User Expectations:](#user-expectations)
   -	[Colour scheme and font](#color-scheme)
   - [Site skeleton (wireframes)-3 pages](#wireframes)
-    - [Introduction page](#introduction-page)
-    - [Theory page](#theory-page)
-    - [Feedback page](#feedback-page)
+    - [Home Page](#home-page)
+    - [Gallery Page](#gallery-page)
+    - [Contact Us Page](#contactus-page)
 
       
   [2. Features](#features)
