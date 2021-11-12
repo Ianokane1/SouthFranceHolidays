@@ -401,9 +401,24 @@ h2 {
 		}
 			
 			#menu {
-				font-size: 8px;
+				font-size: 10px;
+				position: inherit;
+			
+			}
+
+			.whystay {
+				font-size: 50px;
+			}
+
+			#top-about,
+	        #bottom-about {
+				font-size: 30px;
 			}
 		
+	@media screen and (max-width: 320px) {
+		#menu {
+			font-size: 8px;
+		}		
 	}
 
 	
