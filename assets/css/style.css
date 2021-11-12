@@ -17,8 +17,7 @@ body {
 /* header styles */
 
 header {
-	place-content: space-between;
-	background-color: #6F9CEB;
+ background-color: #6F9CEB;
 }
 
 #left {
@@ -29,6 +28,7 @@ header {
 #right {
 	float: right;
 	width: 70%;
+
 }
 h1 {
 	font-size: 30px;
