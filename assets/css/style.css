@@ -362,6 +362,12 @@ h2 {
 
 /*media queries*/
 
+@media screen and (max-width: 1408px) {
+	#menu {
+	line-height: 120px;
+	}
+}
+
 
 /* For small screens sizes from 800px wide and down */
 
@@ -422,3 +428,4 @@ h2 {
 	}
 
 	
+}
