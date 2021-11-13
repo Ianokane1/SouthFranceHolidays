@@ -178,7 +178,7 @@ See errors above
 ![W3C HTML Validation](./assets/images/galleryvalidated.png)
 Errors resolved. Some warnings about sections and using h2-h6. After extensive research I found this were not errors but advisory. I opted not to change them. See above
 
-![W3C HTML Validation](./assets/images/contactuspageerrors.png)
+![W3C HTML Validation](./assets/images/contactuserrors.png)
 See errors above
 
 ![W3C HTML Validation](./assets/images/contactusvalidate.png)
