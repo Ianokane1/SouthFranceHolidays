@@ -216,7 +216,7 @@ TEST            | OUTCOME                          | PASS / FAIL
 Facebook | on clicking Facebook icon, a new tab opens and redirects to the Facebook website.| PASS
 Twitter | on clicking Twitter icon, a new tab opens and redirects to the Twitter website.  | PASS
 Youtube | on clicking Youtube icon, a new tab opens and redirects to the Youtube website.  | PASS
-Instagram | on clicking Instagram icon, a new tab opens and redirects to the Instagram website.
+Instagram | on clicking Instagram icon, a new tab opens and redirects to the Instagram website. | PASS
 Test hover | when hovering over icon it shows blue color | PASS
 Google map| Checked if google map when clicked on view larger map redirect to the google map page in new tab works ot not|PASS
 
@@ -239,7 +239,7 @@ Google map| Checked if google map when clicked on view larger map redirect to th
 TEST            | OUTCOME                          | PASS / FAIL  
 --------------- | -------------------------------- | ---------------
 Responsive | Responsive of the page in difference screen sizes (mobile and website) using different breakpoints were checked.| PASS
-Send| Checked if send and button works or not|PASS
+Send| Checked if send button works or not|PASS
 Form text| Checked if inputs on the forms works or not|PASS
 Google map| Checked if google map when clicked on view larger map redirect to the google map page in new tab works ot not|PASS
 
