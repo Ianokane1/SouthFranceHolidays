@@ -72,7 +72,7 @@ Other foreground and background color used in the sites are
  
 [Balsamiq](https://balsamiq.com/) was used to create wireframes of the website. This was very useful as it gives the template of the UI. Wireframes were designed for web browser and a mobile browser format. The concept design (wireframes) of webpages (3 pages) prepared is presented below.
 
-<a name="home_page"></a>
+<a name="home-page"></a>
 ### Home Page
 ![Desktop Version](./assets/images/homebalsamiq.png)
 ![Mobile Version](./assets/images/homemobilebalsamiq.png)
@@ -84,8 +84,56 @@ Other foreground and background color used in the sites are
 
 
 
-<a name="contactus_page"></a>
+<a name="contactus-page"></a>
 ### Contact Us Page
   ![Desktop Version](./assets/images/contactusbalsamiq.png)
+
+<a name="features"></a>
+# 2. Features
+  [Go to the top](#table-of-contents)
+ ### All 3 pages:
+- Navigation bar is placed at the top right corner of the page, and considered a hover effect that underlines when we want to click the page as well as active page being underlined. The hover effect is placed to improve the user expereince.
+- Site title is located top left of screen. Clicking this will return user to home screen
+- Background color of nav bar and foreground color were chosen considering the contrast between background and foreground colours.
+- Social media links (for facebook, Twitter, Youtube and Instagram) are placed at the bottom of the each page in the footer. All the links will open in a new tab. I added a hover effect to each link for style.
+
+### Home page:
+- Page title top left with nav bar top right.
+- Zooming image of medieval city spanning width of page.
+- About section showcasing what we are offering.
+- Added a book now button with style that will send user to contact page.
+- iframe showing location of site.
+- Social media links.
+
+The screenshot of Home page is below:
+
+Home page UI:
+  ![Home page preview](./assets/images/homepagescreenshot.png)
+
+### Gallery Page 
+- Page title top left with nav bar top right.
+- JavaScript carousel showcasing images of property
+- iframe showing location of site.
+- Social media links.
+
+The screenshot of Gallery page is below:
+
+Gallery page UI:
+  ![Gallery page preview](./assets/images/gallerypagescreenshot.png)
+
+### Contact Us Page
+- Page title top left with nav bar top right.
+- Background image of cyclists in local village.
+- Form for contacting us.
+- iframe showing location of site.
+- Social media links.
+
+The screenshot of Contact Us page is below:
+
+Contact Us page UI:
+  ![Contact Us page preview](./assets/images/contactuspagescreenshot.png)
+
+  The contact us form was correctly submitted  as  shown below.
+![Contact Us page submission](./assets/images/formdata.png)
 
 
