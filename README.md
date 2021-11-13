@@ -28,11 +28,9 @@ A live website can be found [here](https://ianokane1.github.io/SouthFranceHolida
 
   [4.Testing](#testing)
 
-  [5.Bugs](#bugs)
+  [5. Deployment](#deployment)
 
-  [6. Deployment](#deployment)
-
-  [7. Acknowledgement](#acknowledgement)
+  [6. Acknowledgement](#acknowledgement)
 
   <a name="ux"></a>
 # 1. User Experience (UX) design
@@ -264,8 +262,7 @@ The site was deployed to GitHub pages using the following steps:
 ### Code
 * The header and nav bar code came from the Love Running projects
 * The code for image animation on index.html page came from the Love Running projects
-* The carousel on gallery page came from https://www.section.io/engineering-education/how-to-make-an-image-carousel-for-your-website/
-* Some minor coding for contact us page for was inspired from Love Running projects . 
+* The carousel on gallery page came from https://www.section.io/engineering-education/how-to-make-an-image-carousel-for-your-website/. 
 * The icons in the footer and contact page came from [Font Awesome](https://fontawesome.com/)
 * For README.md file, reference of https://github.com/dhakal79/Portfolio-project-MS1and and hhttps://github.com/Chris-McGonigle/emmas-beauty-parlour was considered. 
 * Thanks to my mentor Marcel Mulders for his constructive feedback.
