@@ -166,7 +166,25 @@ In order to make sure that design web pages are responsive to all device sizes, 
 
 [W3C Markup](https://validator.w3.org/#validate_by_input+with_options) was used to check for any errors within my HTML pages.
 
-![W3C HTML Validation](./assets/images/)
-The HTML checker notified me an error in my index.html page. it suggested that i should consider using h2-h6 elements to the section with id='animation" in the page. 
+![W3C HTML Validation](./assets/images/homepageerrors.png)
+See errors above
 
+![W3C HTML Validation](./assets/images/homepagevalidated.png)
+Errors resolved. Some warnings about sections and using h2-h6. After extensive research I found this were not errors but advisory. I opted not to change them. See above
+
+![W3C HTML Validation](./assets/images/gallerypageerrors.png)
+See errors above
+
+![W3C HTML Validation](./assets/images/gallerypagevalidated.png)
+Errors resolved. Some warnings about sections and using h2-h6. After extensive research I found this were not errors but advisory. I opted not to change them. See above
+
+![W3C HTML Validation](./assets/images/contactuspageerrors.png)
+See errors above
+
+![W3C HTML Validation](./assets/images/contactusvalidate.png)
+Errors resolved
+
+[W3C CSS Validation](https://jigsaw.w3.org/css-validator/) was used to check for any error within my CSS stylesheet. No errors were found.
+
+![W3C CSS Validation](./assets/images/cssvalidated)
 
