@@ -172,10 +172,10 @@ See errors above
 ![W3C HTML Validation](./assets/images/homepagevalidated.png)
 Errors resolved. Some warnings about sections and using h2-h6. After extensive research I found this were not errors but advisory. I opted not to change them. See above
 
-![W3C HTML Validation](./assets/images/gallerypageerrors.png)
+![W3C HTML Validation](./assets/images/galleryerrors.png)
 See errors above
 
-![W3C HTML Validation](./assets/images/gallerypagevalidated.png)
+![W3C HTML Validation](./assets/images/galleryvalidated.png)
 Errors resolved. Some warnings about sections and using h2-h6. After extensive research I found this were not errors but advisory. I opted not to change them. See above
 
 ![W3C HTML Validation](./assets/images/contactuspageerrors.png)
@@ -186,5 +186,5 @@ Errors resolved
 
 [W3C CSS Validation](https://jigsaw.w3.org/css-validator/) was used to check for any error within my CSS stylesheet. No errors were found.
 
-![W3C CSS Validation](./assets/images/cssvalidated)
+![W3C CSS Validation](./assets/images/cssvalidated.png)
 
