@@ -67,7 +67,7 @@ Other foreground and background color used in the sites are
 * background: #white
 * font: #ffbe0b
 
-## 1.5 Site Skeleton
+## 1.4 Site Skeleton
   [Go to the top](#table-of-contents)
  
 [Balsamiq](https://balsamiq.com/) was used to create wireframes of the website. This was very useful as it gives the template of the UI. Wireframes were designed for web browser and a mobile browser format. The concept design (wireframes) of webpages (3 pages) prepared is presented below.
@@ -135,5 +135,38 @@ Contact Us page UI:
 
   The contact us form was correctly submitted  as  shown below.
 ![Contact Us page submission](./assets/images/formdata.png)
+
+ <a name="technologies-used"></a>
+# 3. Technologies Used
+  [Go to the top](#table-of-contents)
+
+* [HTML5](https://en.wikipedia.org/wiki/HTML5) (markup language) was used for structuring and presenting content of the website.
+ * [CSS3](https://en.wikipedia.org/wiki/CSS) (Cascading Style Sheets) was used to provide the style to the content written in a HTML.
+ * [Javascript] (https://en.wikipedia.org/wiki/JavaScript) (programming language) was used for carousel
+* [Balsamiq](https://balsamiq.com/) was used to create wireframes of the website (desktop and mobile version).
+* [Google Fonts](https://fonts.google.com/) was used to import font-family "Lato" and "Oswald" into style,css file and which was used throughout the pages of the website.
+* [Font Awesome](https://fontawesome.com/) was used to improt icons to the sites.
+* [Chrome](https://www.google.com/intl/en_uk/chrome/) was used to debug and test the source code using HTML5 as well as to test site responsiveness.
+* [Github](https://github.com/) was used to create the repository and to store the cproject's code after pushed from Git.
+* [Gitpod](https://www.gitpod.io/) was used as the Code Editor for the site
+* [W3C Markup](https://validator.w3.org/) and [Jigsaw validation](https://jigsaw.w3.org/) tools were used to validate the HTML code and CSS style used in the proejct.
+* [Ami](http://ami.responsivedesign.is/#) was used to develop a Mockup screenshot generator
+  <a name="testing"></a>
+  # 4. Testing
+  [Go to the top](#table-of-contents)
+## 4.1 Testing using tools
+### 4.1.1 Google Developer Tools
+I make use of google developer tools (Chrome DevTools) as debugging tools. Using this tool I inspect for all the elements that I added in HTML and CSS style.
+
+### 4.1.2 Responsive Tools
+
+In order to make sure that design web pages are responsive to all device sizes, [Am I Responsive](http://ami.responsivedesign.is/) site was used to check it. 
+
+### 4.1.3 W3C Validator Tools
+
+[W3C Markup](https://validator.w3.org/#validate_by_input+with_options) was used to check for any errors within my HTML pages.
+
+![W3C HTML Validation](./assets/images/)
+The HTML checker notified me an error in my index.html page. it suggested that i should consider using h2-h6 elements to the section with id='animation" in the page. 
 
 
