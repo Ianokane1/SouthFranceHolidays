@@ -136,6 +136,8 @@ h2 {
 	color: #ffbe0b;
 }
 
+/* Book now button which will take user to contact us page */
+
 .bookbutton {
 	font-size: 40px;
 	background-color: #ffbe0b;
@@ -155,6 +157,8 @@ h2 {
 	display: flex;
 	justify-content: center;
 }
+
+/* Social networks */
 
 .social-networks {
 	text-align: center;
@@ -232,7 +236,7 @@ h2 {
 }
 
 * {
-	box-sizing: border-box
+	box-sizing: border-box;
 }
 
 
@@ -389,6 +393,9 @@ h2 {
 		line-height: 25px;
 	}
 }
+
+
+/* for screens of 791px and down */
 
 @media screen and (max-width: 791px) {
 	.whystay {
