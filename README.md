@@ -207,7 +207,6 @@ Contact Us page| on click to "contact us page", the browser redirects me to the 
 Responsive | All pages and elements were responsive (mobile and website) using differnt breakpoints.| PASS
 Foreground & background  color| Checked foreground information is not distracted by backgrounds| PASS
 Text|Checked if all fonts and colors used are consistent or not|PASS
-Back to top|Checked if the page redirect to the top of the page when clicking the back to top on the bottom left corner of the page| PASS
 Google map| Checked if google map when clicked on view larger map redirect to the google map page in new tab works ot not|PASS
 |||
 
